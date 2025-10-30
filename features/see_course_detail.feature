@@ -15,4 +15,5 @@ Feature: See Course Detail
     Then I should be on "/kelas/web-development-build-a-freelancer-portfolio-with-webflow?main_leads=topic"
     And I should see an "header-primary" element 
     And I should see an "content-lessons" element 
+
     And I should see an "item-pricing" element
